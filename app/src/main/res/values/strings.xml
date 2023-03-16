@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AlarmaApp</string>
+    <string name="olvidaste_contrasena"><u>¿Olvidaste tu contraseña?</u></string>
+    <string name="crear_cuenta"><u>¿No tienes cuenta? Crea una</u></string>
+    <string name="volver"><u>Volver</u></string>
+
+    <string-array name="clasificacion_array">
+        <item>Alarmas Diarias</item>
+        <item>Medicamentos</item>
+        <item>Trabajo</item>
+    </string-array>
+
+    <string-array name="ubicacion_array">
+        <item>Casa</item>
+        <item>Trabajo</item>
+        <item>Finca</item>
+    </string-array>
+
+    <string-array name="iot_array">
+        <item>Cafetera - Prender</item>
+    </string-array>
+
+</resources>
